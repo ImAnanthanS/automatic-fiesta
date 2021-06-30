@@ -1,0 +1,16 @@
+ index.html 
+@@ -34,7 +34,7 @@
+    </head>
+    <body>
+
+        <!--================Header Menu Area =================-->
+
+        <header class="main_menu_area">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#"><img src="img/logo.png" alt=""></a>
+@@ -499,4 +499,4 @@ <h5><!-- Link back to Colorlib can't be removed. Template is licensed under CC B
+
+        <script src="js/theme.js"></script>
+    </body>
+</html> 
+</html>
